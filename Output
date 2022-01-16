@@ -1,0 +1,27 @@
+Enter number of employees: 
+3
+Enter salary: 
+500
+Enter years of service: 
+3
+Enter age: 
+45
+Your salary for the month: 500.0
+Enter salary: 
+700
+Enter years of service: 
+6
+Enter age: 
+67
+Your salary for the month: 735.0
+Enter salary: 
+670
+Enter years of service: 
+7
+Enter age: 
+35
+Your salary for the month: 703.5
+Lowest salary is 500.0
+Highest salary is 735.0
+Youngest is 35
+Oldest is 67
